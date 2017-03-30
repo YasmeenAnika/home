@@ -1,0 +1,14 @@
+body
+{
+	background-image: url(images/swirlyshelf.jpg);
+	background-attachment: fixed;
+	background-size: 100%;
+	background-repeat: no-repeat;
+	color: white;
+	font-family: trebuchetms,arial,helvetica,sans-serif;
+}
+
+h2
+{
+	line-height: 2%;
+}

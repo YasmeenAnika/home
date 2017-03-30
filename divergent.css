@@ -1,0 +1,44 @@
+body
+{
+	background-image: url(images/chicago.jpg);
+	background-attachment: fixed;
+	background-size: 100%;
+	background-repeat: no-repeat;
+	color: white;
+	font-family: trebuchetms,arial,helvetica,sans-serif;
+}
+
+a
+{
+	color: yellow;
+}
+
+table
+{
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#d1
+{
+	float: left;
+	padding-right: 2%;
+	padding-bottom: 2%;
+}
+
+#insurgent
+{
+	float: left;
+	margin-right: 70px;
+}
+
+#allegiant
+{
+	float: left;
+	margin-left: 70px;
+}
+
+.credits
+{
+	font-size: 12px;
+}
